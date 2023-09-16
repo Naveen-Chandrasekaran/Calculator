@@ -1,6 +1,6 @@
 # Calculator
 This is Calculator Mobile Application. This Application is developed by using Android Studio and XML is used as front-end and JAVA is used as back-end.
-This supporst only Android Mobile Devices.
+This supports only Android Mobile Devices.
 
 # Screenshots
 ![photo_1_2023-09-16_16-42-51](https://github.com/Naveen-Chandrasekaran/Calculator/assets/114243437/b788f744-6f4e-4f79-ac7d-59e627bc7d61)
